@@ -1,4 +1,4 @@
-# Flanker_ERN_exp
+# Flanker_ERN (Tapping into conflict monitoring and event-related negativity. An EEG study of response inhibition task.)
 Scripts accompanying ERN (Error-related negativity) investigation in EEG data during a Flanker experiment. Scripts contain preprocessing of the EEG data as well as the following analyses needed to test the running hypotheses. 
 The actual raw EEG data is not included.
 
